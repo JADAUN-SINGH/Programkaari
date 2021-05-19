@@ -1,2 +1,0 @@
-# Programkaari
-Programkaari
